@@ -67,5 +67,7 @@ The project is organized into several key steps, each contributing to the overal
 Explore the respective folders for detailed results, code, and additional documentation related to each step.
 
 Feel free to reach out if you have questions or suggestions!
+E-Mail : moghadassi1997@gmail.com
+Telegram : @amin_moghadasi
 
 Happy exploring and investing!
