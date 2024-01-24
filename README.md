@@ -58,7 +58,7 @@ The project is organized into several key steps, each contributing to the overal
 
 ### Execution
 
-1. Clone the repository: `git clone <[repository_url](https://github.com/aminmoghadasi75/M.A.Thesis.git)>`
+1. Clone the repository: `git clone https://github.com/aminmoghadasi75/M.A.Thesis.git`
 2. Navigate to the project directory.
 3. Execute the desired Python scripts for each step.
 
